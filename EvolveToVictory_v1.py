@@ -14,11 +14,11 @@ def introduction():
     
     # wait for user to read instructions
     time.sleep(7)
-    
+
     # "clear" the screen for effect
-    clearScreen = ''
-    for clearScreen in range(0,9):
-        print (' ')
+    #clearScreen = ''
+    #for clearScreen in range(0,9):
+    #    print (' ')
         
     
 def firstChoice():
