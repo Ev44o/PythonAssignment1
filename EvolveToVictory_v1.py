@@ -4,6 +4,7 @@ Created on 2013-05-22
 Description: text based game where you progress by choosing an evolution path
              By the end of the game you must be victorious when you confront
              humans.
+Version: 1
 '''
 import time
 
